@@ -1,0 +1,40 @@
+{
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "path": "higher_education.csv",
+            "profile": "tabular-data-resource",
+            "name": "higher_education",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8-sig",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Region/City",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Population_Age_10_and_older",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Postgraduate_Education",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Higher_Education",
+                        "type": "number",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
