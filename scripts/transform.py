@@ -19,7 +19,8 @@ name_map = {
     'Шығыс Қазақстан': 'East Kazakhstan',
     'Астана қаласы': 'Nur-Sultan city',
     'Алматы қаласы': 'Almaty city',
-    'Шымкент қаласы': 'Shymkent city'
+    'Шымкент қаласы': 'Shymkent city',
+    'Қазақстан Республикасы': 'The Republic of Kazakhstan'
 }
 
 # Define file paths
