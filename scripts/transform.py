@@ -17,7 +17,7 @@ name_map = {
     'Түркістан': 'Turkistan',
     'Ұлытау': 'Ulytau',
     'Шығыс Қазақстан': 'East Kazakhstan',
-    'Астана қаласы': 'Nur-Sultan city',
+    'Астана қаласы': 'Astana city',
     'Алматы қаласы': 'Almaty city',
     'Шымкент қаласы': 'Shymkent city',
     'Қазақстан Республикасы': 'The Republic of Kazakhstan'
